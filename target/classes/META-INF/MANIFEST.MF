@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Restaurant Finder
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Clinford Jordano
+Implementation-Vendor-Id: com.assignment
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/restaurant-f
+ inder/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
